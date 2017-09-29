@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoffeeShopFinder</string>
+    <string name="title_activity_maps">Google Map</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="current_position">Current Position</string>
+    <string name="type_cafe">cafe</string>
+    <string name="open_text">Open</string>
+    <string name="open_status_yes">Yes</string>
+    <string name="open_status_no">No</string>
+    <string name="gps_status_disabled_msg">GPS is disabled in your device. Would you like to enable it?</string>
+    <string name="gps_instruction_msg">Goto Settings Page To Enable GPS</string>
+</resources>
